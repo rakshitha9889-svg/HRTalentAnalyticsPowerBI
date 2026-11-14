@@ -2,7 +2,7 @@
 
 An interactive 3-page Power BI dashboard that analyses employee attrition, career progression and diversity for **1,470 employees**, and turns the findings into concrete recommendations for a Talent Management team.
 
-![Workforce Overview](screenshots/page1_workforce_overview.png)
+![Workforce Overview](hr-talent-analytics-powerbi/screenshots/page1_workforce_overview.png)
 
 ## Business question
 **Who is leaving the organisation, why, and where should Talent Management act first?**
@@ -21,7 +21,7 @@ An interactive 3-page Power BI dashboard that analyses employee attrition, caree
 - Engineered analysis columns: **Age Band**, **Tenure Band**, **Promotion Overdue** (5+ years since last promotion) and an **Attrition Flag** (1/0)
 - Added sort-order columns so bands and labels display in logical order
 
-![Power Query applied steps](screenshots/power_query_steps.png)
+![Power Query applied steps](hr-talent-analytics-powerbi/screenshots/power_query_steps.png)
 
 ### 2. DAX measures
 | Measure | Purpose |
@@ -64,7 +64,7 @@ Overall attrition: **16.1%** (237 of 1,470 employees).
 ## Screenshots
 | Workforce Overview | Attrition Drivers | Talent Development & Diversity |
 |---|---|---|
-| ![](screenshots/page1_workforce_overview.png) | ![](screenshots/page2_attrition_drivers.png) | ![](screenshots/page3_talent_development.png) |
+| ![](hr-talent-analytics-powerbi/screenshots/page1_workforce_overview.png) | ![](hr-talent-analytics-powerbi/screenshots/page2_attrition_drivers.png) | ![](hr-talent-analytics-powerbi/screenshots/page3_talent_development.png) |
 
 ## Repository structure
 ```
