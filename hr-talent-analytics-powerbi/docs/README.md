@@ -61,8 +61,6 @@ All pages share synced slicers for **Department, Gender and Job Level**.
 
 Overall attrition: **16.1%** (237 of 1,470 employees).
 
-A 3-slide summary for stakeholders is in [`docs/Talent_Analytics_Summary.pptx`](docs/Talent_Analytics_Summary.pptx).
-
 ## Screenshots
 | Workforce Overview | Attrition Drivers | Talent Development & Diversity |
 |---|---|---|
